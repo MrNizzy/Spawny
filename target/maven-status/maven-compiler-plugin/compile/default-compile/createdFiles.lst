@@ -1,0 +1,9 @@
+com\mcnizzy\sp\commands\SetSpawn.class
+com\mcnizzy\sp\events\UserJoin.class
+com\mcnizzy\sp\commands\Locations.class
+com\mcnizzy\sp\commands\Spawn.class
+com\mcnizzy\sp\commands\Lobby.class
+com\mcnizzy\sp\commands\Reload.class
+com\mcnizzy\sp\commands\SetLocations.class
+com\mcnizzy\sp\spawny\Spawny.class
+com\mcnizzy\sp\commands\SetLobby.class

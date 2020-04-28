@@ -1,0 +1,31 @@
+name: Spawny
+version: ${project.version}
+main: com.mcnizzy.sp.spawny.Spawny
+api-version: 1.13
+authors: [MrNizzy]
+description: A Spigot Plugin to stablish locations
+website: latinmania.xyz
+commands:
+  SpawnyReloadConfig:
+    description: Reload plugin.
+    usage: /SpawnyReloadConfig
+  SetSpawn:
+    description: Stablish a new spawn.
+    usage: /setspawn
+    permission-message: No tienes permiso para usar este comando.
+  SetLobby:
+    description: Establish a new lobby.
+    usage: /setlobby
+  SetLocations:
+    description: Stablish a new location.
+    usage: /locationset
+  Spawn:
+    description: Go to spawn.
+    usage: /spawn
+  Lobby:
+    description: Go to Lobby.
+    usage: /lobby
+  Location:
+    description: Go to location.
+    usage: /slocation
+

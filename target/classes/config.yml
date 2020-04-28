@@ -1,0 +1,10 @@
+Config:
+  mensaje-bienvenida: false
+  mensaje-bienvenida-texto: "&aBienvenido &c&l%player% &aa Latin Mania"
+  Spawn:
+  x:
+  y:
+  z:
+  yaw:
+  pitch:
+  world:
